@@ -1,0 +1,22 @@
+node.js
+순간순간 필요한 페이지를 생성
+사용자의 참여가 가능
+
+목표 node.js로 어플리케이션 만들기
+각각의 기능 실현
+javascript + node.js
+
+url
+같은 파일이지만 다른 페이지를 만들어서 보냄
+http://opentutorials.org:3000/main?id=HTML&page=12
+app.listen(3000); // 포트번호 명시
+main. // js 파일명
+?id=HTML&page=12 //쿼리 스트링 : 약속된 번호
+
+node.js에서 파일을 다루는 방법
+CRUD : create read update delete
+정보를 다루는 핵심 처리 방법
+
+INPUT
+parameter(입력되는 정보의 형식)
+argument(실제 입력되는 정보)
