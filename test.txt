@@ -1,1 +1,1 @@
-est
+pm2 start main.js --watch --ignore-watch="data/*"
