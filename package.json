@@ -21,6 +21,6 @@
   "homepage": "https://github.com/seunghyun3309/nodejs_practice#readme",
   "dependencies": {
     "mysql": "^2.18.1",
-    "sanitize-html": "^1.22.0"
+    "sanitize-html": "^2.3.2"
   }
 }
